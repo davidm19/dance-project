@@ -18,5 +18,10 @@ dance(tetrisFast25)
 
 dance(tetrisSlow13)
 
+<<<<<<< HEAD
 tetrisFast6 = [forward(3,.5), turnLeft(5,.2), turnRight(5,.2), turnLeft(5,.2), backward(4,.2), backward(4,.2), backward(4,.2), turnLeft(3,.2), turnRight(3,.2), turnLeft(7.5,.2), backward(4,1), turnLeft(3,.2), turnRight(3,.2), forward(2,2.5)]
 dance(tetrisFast6)
+=======
+tetrisFast6 = [forward(3,.5), turnLeft(5,.2), turnRight(5,.2), turnLeft(5,.2), backward(4,.2), backward(4,.2), turnLeft(3,.2), turnRight(3,.2), turnLeft(7.5,.2), backward(4,1), turnLeft(3,.2), turnRight(3,.2), forward(2,2.5)]
+dance(tetrisFast6)
+>>>>>>> f9e4b7d5bc8a398c088c55a28d841dd2572e6272
