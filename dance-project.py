@@ -15,8 +15,8 @@ def tetrisFast25():
     backward(3,1.25)
     stop()
 
-tetrisFast25() #put it in a loop
-tetrisFast25()
+for i in range(2):
+    tetrisFast25()
 
 def tetrisSlow13():
     forward(3,.75)
@@ -27,8 +27,8 @@ def tetrisSlow13():
     backward(2,.75)
     turnRight(3.5,.75)
     
-tetrisSlow13()
-tetrisSlow13()
+for i in range(2):
+    tetrisSlow13()
 
 tetrisFast25()
 
