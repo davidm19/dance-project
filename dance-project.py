@@ -30,7 +30,8 @@ def tetrisSlow13():
 for i in range(2):
     tetrisSlow13()
 
-tetrisFast25()
+for i in range(2):
+    tetrisFast25()
 
 tetrisSlow13()
 
@@ -50,4 +51,5 @@ def tetrisFast6():
     turnRight(3,.2)
     forward(2,2.5)
 
-tetrisFast6()
+for i in range(2):
+    tetrisFast6()
